@@ -6,3 +6,4 @@ print("changes in master branch")
 print("this is new branch")
 >>>>>>> newbranch
 print("diffftool added")
+print("merge me REmote")
